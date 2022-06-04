@@ -1,8 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Undestand my commits
+syntax: ```type(scope): little message in imperative format``` <br>
+note: scope is optinal 
+
+### types
+* feat: new feature (yeah, it's simple)
+* fix: fix something
+* dependencie: without scope is production dependencie and with dev scope, is developer dependencie
+* docs: change documentation 
+* refactory: change the code but dont change the logic or/and funcionament of code
+* build: change something in build process, like babel or webpack
 
 ## Technologies 
-<br>
-
 ### JS Framework 
 - NextJS
 
